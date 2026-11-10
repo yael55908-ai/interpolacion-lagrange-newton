@@ -10,7 +10,7 @@ Proyecto en Java que implementa la interpolación polinomial con el método de L
 - IDE: IntelliJ IDEA 2026.2.2
 
 ## Cómo ejecutarlo
-1. Clonar el repositorio: `git clone https://github.com/TU_USUARIO/interpolacion-lagrange-newton.git`
+1. Clonar el repositorio: git clone https://github.com/yael55908-ai/interpolacion-lagrange-newton.git
 2. Abrir la carpeta en IntelliJ IDEA.
 3. Ejecutar `src/interpolacion/Main.java`.
 
