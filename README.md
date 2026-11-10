@@ -25,4 +25,4 @@ Proyecto en Java que implementa la interpolación polinomial con el método de L
 - `Main.java`: prueba con nodos propios y comparación de resultados.
 
 ## Autor
-Tu nombre - No. de control
+yael aminadab hernandez reyes
